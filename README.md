@@ -5,3 +5,10 @@ Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher IT-Systemintegra
 In meiner Freizeit arbeite ich an spannenden kleinen Projekten, bei denen ich meine Fähigkeiten ständig erweitere. Jeder Tag ist eine neue Gelegenheit, Neues zu lernen und mich weiterzuentwickeln. Die rasante Entwicklung der IT-Branche fasziniert mich, und ich bin fest entschlossen, Schritt für Schritt mit ihr Schritt zu halten.
 
 Folge meiner Reise, während ich an Codes tüftle, Systeme integriere und meine Begeisterung für Hardware teile. Zusammen können wir die Grenzen der Technologie erkunden und die Zukunft gestalten!
+
+<h2 align=center> 
+
+- 👀 I’m interested in p2p-networks
+- 🌱 I’m currently learning software-testing and java
+- 📫 Reach me through email at teicheld@web.de
+</h2>
