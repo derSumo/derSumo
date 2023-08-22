@@ -6,9 +6,9 @@ In meiner Freizeit arbeite ich an spannenden kleinen Projekten, bei denen ich me
 
 Folge meiner Reise, während ich an Codes tüftle, Systeme integriere und meine Begeisterung für Hardware teile. Zusammen können wir die Grenzen der Technologie erkunden und die Zukunft gestalten!
 
-<h2 align=center> 
+<h3 align=center> 
 
-- 👀 I’m interested in p2p-networks
-- 🌱 I’m currently learning software-testing and java
-- 📫 Reach me through email at teicheld@web.de
-</h2>
+- 👀 Ich intressiere mich sehr für Open Source
+- 🌱 Momentan lerne ich Python und spiele damit
+- 📫 Ich liebe tools die das Leben erleichtern
+</h3>
