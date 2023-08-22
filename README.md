@@ -6,12 +6,7 @@ In meiner Freizeit arbeite ich an spannenden kleinen Projekten, bei denen ich me
 
 Folge meiner Reise, während ich an Codes tüftle, Systeme integriere und meine Begeisterung für Hardware teile. Zusammen können wir die Grenzen der Technologie erkunden und die Zukunft gestalten!
 
-<p align=center> 
-
-- 👀 Ich intressiere mich sehr für Open Source
-- 🌱 Momentan lerne ich Python und spiele damit
-- 📫 Ich liebe tools die das Leben erleichtern
-</p>
+--
 
 <details>
 <summary>🛠️ Meine Interessen</summary>
