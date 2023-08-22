@@ -1,4 +1,4 @@
-<h1 align=center>👨‍💻 IT-Systemintegrator in Ausbildung 🛠️ | Hardware-Enthusiast 🖥️ | Projektliebhaber 🚀 | Täglich auf der Entwicklungsreise 📚</h1>
+<h2 align=center>👨‍💻 IT-Systemintegrator in Ausbildung 🛠️ | Hardware-Enthusiast 🖥️ | Projektliebhaber 🚀 | Täglich auf der Entwicklungsreise 📚</h2>
 
 Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher IT-Systemintegrator in der Ausbildung und habe eine besondere Vorliebe für alles rund um Hardware. Von Mainboards bis hin zu Grafikkarten – ich liebe es, tief in die Welt der Technik einzutauchen und innovative Lösungen zu finden.
 
