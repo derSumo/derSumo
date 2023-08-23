@@ -14,6 +14,6 @@ Folge meiner Reise, während ich an Codes tüftle, Systeme integriere und meine 
     🔧 Fan von Open Source Tools
     🚀 Begeistert von Tools, die das Leben einfacher machen
     🐍 Lerne gerade Python und liebe es damit zu experimentieren
-    💻 Tauche gerne tief in die Serverwelt der Shell ein
+    💻 Tauche gerne tief in die Shell der Serverwelt ein
 
 </details>
